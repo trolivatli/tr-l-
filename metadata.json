@@ -1,0 +1,6 @@
+{
+  "name": "DayPulse - Quản Lý Công Việc & Nhắc Nhở",
+  "description": "Ứng dụng quản lý danh sách công việc hàng ngày thông minh với thông báo nhắc nhở, lịch trình và bộ đếm thời gian tập trung.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
